@@ -2,13 +2,13 @@
 #################################################################
 ## Set the values in this section
 #################################################################
-HOSTNAME='ec2-52-63-456-123.ap-southeast-2.compute.amazonaws.com'
-COUNTRY='AU'
-STATE='Australian Capital Territory'
-CITY='Canberra'
-ORG='MyCompany'
+HOSTNAME='jenkins.friday.life'
+COUNTRY='IN'
+STATE='KA'
+CITY='Bengaluru'
+ORG='Marquisa India Solutions.'
 ORG_UNIT='IT'
-EMAIL='somebody@gmail.com'
+EMAIL='Jeet@friday.life'
 #################################################################
 
 set -e 
